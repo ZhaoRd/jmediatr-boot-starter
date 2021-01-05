@@ -1,4 +1,4 @@
-package org.jmediatr;
+package io.github.zhaord.jmediatr;
 
 /**
  * 无返回类型的辅助类型，作用类型void

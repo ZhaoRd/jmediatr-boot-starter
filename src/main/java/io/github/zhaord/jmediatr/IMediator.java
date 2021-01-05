@@ -1,4 +1,4 @@
-package org.jmediatr;
+package io.github.zhaord.jmediatr;
 
 /**
  * mediator 接口，继承自{@link ISender}和{@link IPublisher}

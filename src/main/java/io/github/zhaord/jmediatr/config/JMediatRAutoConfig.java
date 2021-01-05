@@ -1,4 +1,4 @@
-package org.jmediatr.config;
+package io.github.zhaord.jmediatr.config;
 
 import org.springframework.context.annotation.ComponentScan;
 

@@ -1,4 +1,4 @@
-package org.jmediatr;
+package io.github.zhaord.jmediatr;
 
 /**
  * 多播消息发布接口

@@ -1,4 +1,4 @@
-package org.jmediatr;
+package io.github.zhaord.jmediatr;
 
 /**
  * 单播消息抽象

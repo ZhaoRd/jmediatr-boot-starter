@@ -1,4 +1,4 @@
-package org.jmediatr;
+package io.github.zhaord.jmediatr;
 
 /**
  * 返回{@link Unit} 类型的单播消息

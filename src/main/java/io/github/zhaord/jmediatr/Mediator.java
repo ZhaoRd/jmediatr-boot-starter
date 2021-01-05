@@ -1,4 +1,4 @@
-package org.jmediatr;
+package io.github.zhaord.jmediatr;
 
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;
