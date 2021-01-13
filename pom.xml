@@ -8,6 +8,16 @@
     <artifactId>jmediatr-boot-starter</artifactId>
     <version>1.0.0</version>
 
+    <name>jmediatr-boot-starter</name>
+    <description>基于spring实现的中介者模式类库,实现进程内消息发布与处理解耦</description>
+    <url>https://github.com/ZhaoRd/jmediatr-boot-starter.git</url>
+    <licenses>
+        <license>
+            <name>MIT</name>
+            <url>https://github.com/ZhaoRd/jmediatr-boot-starter/blob/main/LICENSE</url>
+        </license>
+    </licenses>
+
     <developers>
         <developer>
             <name>zhaorende</name>
